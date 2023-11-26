@@ -13,9 +13,8 @@ const SectionWrapper = ({
   return (
     <div
       className={`min-h-screen ${styles.section} 
-      ${reverse ? styles.bgWhite : styles.bgPrimary} ${banner}` }
-
-      style={ banner ? { backgroundImage: `url('${banner}.svg')`} : null}
+      ${reverse ? styles.bgWhite : styles.bgPrimary} ${banner}`}
+      style={banner ? { backgroundImage: `url('${banner}.svg')` } : null}
     >
       <div
         className={`flex items-center 
@@ -45,7 +44,7 @@ const SectionWrapper = ({
           {showBtn && (
             <Button
               assetUrl={assets.expo}
-              link="https://expo.dev/@adrianhajdin/react_native_app?serviceType=classic&distribution=expo-go"
+              link="https://expo.dev/accounts/kimuel123/projects/react-native-mobile-nft/updates/cec0d50a-86e5-4223-ba45-a5817fbfe433"
             />
           )}
         </div>

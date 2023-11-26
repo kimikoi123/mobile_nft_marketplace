@@ -1,6 +1,7 @@
 {
   "name": "react_native_nft_marketplace_page",
   "version": "0.1.0",
+  "homepage": ".",
   "private": true,
   "scripts": {
     "dev": "next dev",
