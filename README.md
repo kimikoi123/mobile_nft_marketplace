@@ -1,6 +1,8 @@
 For Android
-![image](https://github.com/kimikoi123/mobile_nft_marketplace/assets/83416645/bda6bbf4-f208-4697-ad42-5a728c7fcd86)
+![image](https://github.com/kimikoi123/mobile_nft_marketplace/assets/83416645/2880efad-3a19-42e2-937a-90fc8f9c475e)
+
 
 For IOS
-![image](https://github.com/kimikoi123/mobile_nft_marketplace/assets/83416645/c9293c91-d693-4dd8-beb9-880d2d07215e)
+![image](https://github.com/kimikoi123/mobile_nft_marketplace/assets/83416645/26418a57-dd57-42e8-b75c-0a9a10d36e6b)
+
 
